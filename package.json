@@ -1,0 +1,24 @@
+{
+  "name": "productiv-rampup",
+  "version": "1.0.0",
+  "description": "fetch data from google's apis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachelyan99/productiv-rampup.git"
+  },
+  "author": "Rachel Yan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rachelyan99/productiv-rampup/issues"
+  },
+  "homepage": "https://github.com/rachelyan99/productiv-rampup#readme",
+  "dependencies": {
+    "aws-sdk": "^2.645.0",
+    "googleapis": "^39.2.0",
+    "node-datetime": "^2.1.2"
+  }
+}
